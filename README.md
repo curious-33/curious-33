@@ -3,10 +3,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=curious-33&label=Profile%20views&color=0e75b6&style=flat" alt="curious-33" /></p>
 <p align="left">  <a href="https://twitter.com/imcurious_33" target="_blank"><img src="https://img.shields.io/twitter/follow/imcurious_33?logo=twitter&style=for-the-badge" alt="imcurious_33" /></a> </p>
 
-<div style="width: 100%, display: flex, align-items: center, justify-content: center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curious-33" alt="curious-33" /></a>
-</div><br>
-
 - 🔭 I’m currently working on **<a href="https://ascendnow.org/" target="_blank">Ascend</a> Online Educational Platform**
 
 - 💬 Ask me about **MERN**
@@ -17,9 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/imcurious_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imcurious_33" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/curious33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="curious33" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@curious_media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="curious_media" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/curious33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="curious33" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/curious33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="curious33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
