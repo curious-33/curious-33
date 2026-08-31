@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mukhammadsodik - aka <a href="https://t.me/curious_33">Curious</a> </h1>
 <h3 align="center">JS developer from Tashkent, Uzbekistan</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=curious-33&label=Profile%20views&color=0e75b6&style=flat" alt="curious-33" /></p>
-<p align="left">  <a href="https://twitter.com/imcurious_33" target="_blank"><img src="https://img.shields.io/twitter/follow/imcurious_33?logo=twitter&style=for-the-badge" alt="imcurious_33" /></a> </p>
+<p align="left">  <a href="https://x.com/curi0us_33" target="_blank"><img src="https://img.shields.io/twitter/follow/curi0us_33?logo=twitter&style=for-the-badge" alt="curi0us_33" /></a> </p>
 
 - 🔭 I’m currently working on **<a href="https://www.buildmyedge.com/" target="_blank">Build My Edge</a> Platform**
 
